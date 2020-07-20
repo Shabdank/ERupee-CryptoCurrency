@@ -1,0 +1,17 @@
+{
+  "name": "ERupee-Sale",
+  "version": "1.0.0",
+  "description": "ERupee Sale ICO",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "Shabdank",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}

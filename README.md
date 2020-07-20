@@ -1,4 +1,4 @@
-# Erupee-CryptoCurrency
+# ERupee-CryptoCurrency
 Try on creating my own ERC-20 Token
 
 This is ERupee a ERC-20 token
